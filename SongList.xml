@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="xmlStyleSheet.css" ?>
+<Records>
+	<Record>
+		<Title>Fix You</Title>
+		<Artist>Coldplay</Artist>
+		<Genre>Rock</Genre>
+		<ReleaseDate>2005</ReleaseDate>
+	</Record>
+	<Record>
+		<Title>Viva La Vida</Title>
+		<Artist>Coldplay</Artist>
+		<Genre>Rock</Genre>
+		<ReleaseDate>2008</ReleaseDate>
+	</Record>
+	<Record>
+		<Title>A Sky Full of Stars</Title>
+		<Artist>Coldplay</Artist>
+		<Genre>Pop</Genre>
+		<ReleaseDate>2014</ReleaseDate>
+	</Record>
+	<Record>
+		<Title>Radioactive</Title>
+		<Artist>Imagine Dragons</Artist>
+		<Genre>Pop</Genre>
+		<ReleaseDate>2012</ReleaseDate>
+	</Record>
+	<Record>
+		<Title>On Top of the World</Title>
+		<Artist>Imagine Dragon</Artist>
+		<Genre>Rock</Genre>
+		<ReleaseDate>2005</ReleaseDate>
+	</Record>
+	<Record>
+		<Title>Payphone</Title>
+		<Artist>Maroon 5</Artist>
+		<Genre>Pop</Genre>
+		<ReleaseDate>2012</ReleaseDate>
+	</Record>
+	<Record>
+		<Title>Hello</Title>
+		<Artist>Pop Smoke, A Boogie wit da Hoodie</Artist>
+		<Genre>Hip-hop</Genre>
+		<ReleaseDate>2020</ReleaseDate>
+	</Record>
+	<Record>
+		<Title>Element</Title>
+		<Artist>Pop Smoke</Artist>
+		<Genre>Hip-hop</Genre>
+		<ReleaseDate>2020</ReleaseDate>
+	</Record>
+	<Record>
+		<Title>Invincible</Title>
+		<Artist>Pop Smoke</Artist>
+		<Genre>Hip-hop</Genre>
+		<ReleaseDate>2020</ReleaseDate>
+	</Record>
+	<Record>
+		<Title>Zoo York</Title>
+		<Artist>Lil Tjay, Pop Smoke, Fivio Foreign</Artist>
+		<Genre>Hip-hop</Genre>
+		<ReleaseDate>2020</ReleaseDate>
+	</Record>
+</Records>
